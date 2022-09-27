@@ -19,7 +19,7 @@ public class Example23 {
                 }
             }
         }
-        System.out.println("Average: " +sum / i);
+        System.out.println("Average: " + sum / i);
         if (wasTen) {
             System.out.println("There was a 10");
         } else {
